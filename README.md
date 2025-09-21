@@ -96,13 +96,20 @@ A simple application to test Google Sign-In functionality with FastAPI backend a
 - The Client Secret is used securely on the backend to exchange authorization codes for tokens
 - State parameter is used to prevent CSRF attacks
 - In production, consider using secure session management and HTTPS
-![alt text](image.png)
 
-![alt text](image-1.png)
+## Screenshots
 
-Leave empty:
-![alt text](image-2.png)
+### Main Application Interface
+![Google Sign-In Interface](images/image.png)
 
-![alt text](image-3.png)
+### Google OAuth Setup - Step 1
+![Google OAuth Setup Step 1](images/image-1.png)
 
-![alt text](image-4.png)
+### Google OAuth Setup - Step 2 (Leave Empty)
+![Google OAuth Setup Step 2](images/image-2.png)
+
+### Google OAuth Setup - Step 3
+![Google OAuth Setup Step 3](images/image-3.png)
+
+### Google OAuth Setup - Step 4
+![Google OAuth Setup Step 4](images/image-4.png)
